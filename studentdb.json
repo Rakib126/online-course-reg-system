@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Ashik Mahmud",
+        "id": "191-15-12060",
+        "gmail": "ashik15-12060@diu.edu.bd",
+        "gender": "Male",
+        "section": "O1",
+        "course_list": [
+            "234"
+        ],
+        "registration_status": "Pending"
+    },
+    {
+        "name": "Md Rakibul Hasan",
+        "id": "191-15-12606",
+        "gmail": "rakibul15-12606@diu.edu.bd",
+        "gender": "Male",
+        "section": "O3",
+        "course_list": [
+            "241"
+        ],
+        "registration_status": "Pending"
+    },
+    {
+        "name": "Kammrun Nahar",
+        "id": "191-15-12815",
+        "gmail": "kamrun15-12815@diu.edu.bd",
+        "gender": "Female",
+        "section": "O3",
+        "course_list": [
+            "235"
+        ],
+        "registration_status": "Partially Complete"
+    },
+    {
+        "name": "Md Hasanur Rahman",
+        "id": "191-15-12804",
+        "gmail": "hasanur15-12804@diu.edu.bd",
+        "gender": "Male",
+        "section": "O3",
+        "course_list": [
+            "230",
+            "231"
+        ],
+        "registration_status": "Pending"
+    }
+]
